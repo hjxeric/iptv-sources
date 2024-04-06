@@ -1,4 +1,4 @@
-# List for **iptv.org stream China**(Rollback)
+# List for **iptv.org stream China**
 
 > M3U: [o_s_cn.m3u](/o_s_cn.m3u), TXT: [o_s_cn.txt](/txt/o_s_cn.txt)
 
@@ -510,4 +510,4 @@
 | 504 | 山西文体 | IPv4 直链 | <http://220.194.178.58:8888/newlive/live/hls/55/live.m3u8> |
 | 505 | Ando TV (576p) | IPv4 直链 | <http://119.1.122.186:4022/rtp/238.255.2.189:5999> |
 
-Updated at **Sat Apr 06 2024 16:20:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Apr 06 2024 18:19:17 GMT+0000 (Coordinated Universal Time)**
