@@ -180,4 +180,4 @@
 | 174 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8> |
 | 175 | Travelxp | i.mjh.nz | <https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8> |
 
-Updated at **Wed Apr 10 2024 01:08:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 10 2024 02:23:32 GMT+0000 (Coordinated Universal Time)**
